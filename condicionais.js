@@ -1,4 +1,4 @@
-//Exercícios 1
+//Exercícios 1 js
 
 // let num = prompt("Digite um Número :");
 
